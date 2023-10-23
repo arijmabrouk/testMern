@@ -1,0 +1,6 @@
+{
+    "mongo_url": "mongodb://127.0.0.1:27017/bd_tp_mern",
+    "jwtSecret":"jwtSecret",
+    "tokenExpire":"52222555"
+  }
+  
